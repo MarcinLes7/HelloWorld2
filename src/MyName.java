@@ -3,5 +3,9 @@ public class MyName {
         String name = "Marcin";
         String surname = "Leśniak";
         System.out.println("Moje imię to: " + name + " " + surname);
+        System.out.println("Moje imię to: " + name + " " + surname);
+        System.out.println("Moje imię to: " + name + " " + surname);
+        System.out.println("Moje imię to: " + name + " " + surname);
+        System.out.println("Moje imię to: " + name + " " + surname);
     }
 }
